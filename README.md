@@ -1,0 +1,2 @@
+# FreeCAD_Prim_part_control
+FreeCAD创建基本形体并控制
