@@ -45,7 +45,7 @@ class BoxController(QObject):
         if not self.doc:
             self.doc = FreeCAD.newDocument()
         box = self.doc.addObject("Part::Box", "Box")
-        # 目前操作对象不能更改，只能操作新创建的BOX 王时弘
+        # 目前操作对象不能更改，只能操作新创建的BOX 
         box.Length = length
         box.Width = width
         box.Height = height

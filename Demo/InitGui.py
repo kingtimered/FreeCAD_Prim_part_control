@@ -13,7 +13,7 @@ class Demo_Workbench ( Workbench ):
         self.list = ['MyCommand4Part'] # A list of command names created in the line above
         self.appendToolbar('My Commands',self.list) # creates a new toolbar with your commands
         self.appendMenu('My New Menu',self.list) # creates a new menu
-        # 王时弘 注释省略掉 此行 4.24
+        # 注释省略掉 此行 4.24
         #self.appendMenu(["An existing Menu", "My submenu"], self.list)  # appends a submenu to an existing menu
 
     def Activated(self):
