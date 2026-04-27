@@ -1,0 +1,1 @@
+pyside6-uic "D:\FreeCAD 1.1\Mod\Demo\MyCreateBlock.ui" -o "D:\FreeCAD 1.1\Mod\Demo\MyCreateBlock.py"
